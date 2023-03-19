@@ -20,17 +20,6 @@
   min-height: 550px;
 }
 
-/* định vị vị trí 3 button thể hiện vị trí item đang active */
-main {
-  position: relative;
-}
-
-.carousel-indicators {
-  height: 20px;
-  position: absolute;
-  top: 510px;
-}
-
 /* định vị vị trí của phần text chính */
 .carousel-caption {
   margin-bottom: 45px;
