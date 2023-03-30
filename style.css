@@ -26,20 +26,6 @@
 }
 
 /* footer */
-footer .container {
-  min-height: 20px;
-  margin-top: 50px;
-}
-
-#myCarousel {
-  margin-bottom: 80px;
-}
-
-footer ul {
-  padding-left: 0;
-  list-style: disc inside;
-}
-footer ul li {
-  display: inline-block;
-  padding-left: 10px;
+footer {
+  margin-top: 150px;
 }
